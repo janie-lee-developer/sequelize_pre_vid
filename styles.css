@@ -1,0 +1,13 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 1rem;
+}
+
+#user-form {
+    display: flex;
+    flex-direction: column;
+}
+
+#user-form > * {
+    margin: 1rem;
+}
